@@ -1,0 +1,6 @@
+configuration.nix
+generated.configuration.nix
+generated.hardware-configuration.nix
+hardware-configuration.nix
+
+auth.txt
